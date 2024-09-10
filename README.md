@@ -1,3 +1,3 @@
-# Deep_Learning_with_Python
+# Deep Learning with Python
 
 The deep in deep learning isn’t a reference to any kind of deeper understanding achieved by the approach; rather, it stands for this idea of successive layers of representations...... 
